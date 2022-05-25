@@ -57,7 +57,7 @@ tensorboard --logdir=path_to_your_logs(就是本项目的logs1文件夹)
 
 ## 4. 预测步骤
 1. 首先在PDLD.py文件中，指定好参数，权重文件在model_data文件夹中
-2. 运行在predict.py即可，如img/1.png
+2. 运行predict.py即可，如输入img/1.png
 效果如下：
 
 ![avatar](img/2.png)
